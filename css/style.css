@@ -36,3 +36,11 @@
 #testbg{
   border-radius: 0.75rem;
 }
+
+.profile-img{
+  height: 100px;
+}
+
+img.img-fluid{
+  height: 30px;
+}
