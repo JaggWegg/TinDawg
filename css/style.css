@@ -33,8 +33,9 @@
 .no-wrap-tet {
   white-space: nowrap; 
 }
-#testbg{
-  border-radius: 0.75rem;
+#testbg h2 {
+  white-space: nowrap;
+
 }
 
 .profile-img{
